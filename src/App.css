@@ -1,0 +1,6 @@
+.handle-overflow{
+  overflow-x: scroll;
+}
+tr{
+  cursor: pointer;
+}
